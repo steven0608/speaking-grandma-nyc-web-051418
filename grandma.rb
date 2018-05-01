@@ -16,8 +16,8 @@ if string=="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   "I LOVE YOU TOO PUMPKIN!"
 elsif string== string.upcase
-    puts "No, NOT SINCE 1983!"
-    "No, NOT SINCE 1983!"
+    puts "NO, NOT SINCE 1983!"
+    "NO, NOT SINCE 1983!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
     "HUH?! SPEAK UP, SONNY!"
